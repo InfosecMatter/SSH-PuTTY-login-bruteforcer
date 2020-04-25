@@ -6,6 +6,8 @@ See the main article here: https://www.infosecmatter.com/ssh-login-bruteforcer-u
 
 ## Usage and examples
 
+The tool requires either **putty.exe** or **plink.exe** executables in the PATH or in the current working directory.
+
 ```
 import .\ssh-putty-brute.ps1
 
