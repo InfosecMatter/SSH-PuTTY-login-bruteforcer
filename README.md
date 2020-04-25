@@ -2,7 +2,7 @@
 
 The **ssh-putty-brute.ps1** is a wrapper script which uses PuTTY clients (either **putty.exe** or **plink.exe**) to perform SSH login bruteforce attacks.
 
-See the main article here for detailed description: https://www.infosecmatter.com/ssh-login-bruteforcer-using-putty-plink/
+See the main article for detailed description: https://www.infosecmatter.com/ssh-login-bruteforcer-using-putty-plink/
 
 ## Usage and examples
 
