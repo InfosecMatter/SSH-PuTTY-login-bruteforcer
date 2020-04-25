@@ -1,15 +1,17 @@
 # SSH PuTTY login bruteforcer
 
-This repository contains a wrapper script **ssh-putty-brute.ps1**. This script uses PuTTY clients (either putty.exe or plink.exe) to perform SSH login bruteforce attacks.
+The **ssh-putty-brute.ps1** is a wrapper script which uses PuTTY clients (either putty.exe or plink.exe) to perform SSH login bruteforce attacks.
 
-See the main article here: https://www.infosecmatter.com/ssh-login-bruteforcer-using-putty-plink/
+See the main article here for detailed description: https://www.infosecmatter.com/ssh-login-bruteforcer-using-putty-plink/
 
 ## Usage and examples
 
 The tool requires either **putty.exe** or **plink.exe** executables in the PATH or in the current working directory.
 
+Here's how to use this tool:
+
 ```
-import .\ssh-putty-brute.ps1
+import-module .\ssh-putty-brute.ps1
 
 # Usage:
 ssh-putty-brute [-h ip|ips.txt] [-p port] [-u user|users.txt] [-pw pass|pwdlist.txt]
