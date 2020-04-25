@@ -1,6 +1,6 @@
 # SSH PuTTY login bruteforcer
 
-This repository contains a wrapper script ssh-putty-brute.ps1. This script uses PuTTY clients (either putty.exe or plink.exe) to perform SSH login bruteforce attacks.
+This repository contains a wrapper script **ssh-putty-brute.ps1**. This script uses PuTTY clients (either putty.exe or plink.exe) to perform SSH login bruteforce attacks.
 
 See the main article here: https://www.infosecmatter.com/ssh-login-bruteforcer-using-putty-plink/
 
