@@ -1,4 +1,4 @@
-﻿function ssh-putty-brute {
+function ssh-putty-brute {
 <#
 .SYNOPSIS
     SSH login bruteforce wrapper around PuTTY.
